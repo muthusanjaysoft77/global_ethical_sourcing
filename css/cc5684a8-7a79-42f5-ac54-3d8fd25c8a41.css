@@ -1,0 +1,51 @@
+@import url(1.css);
+@font-face{
+font-family:"Avenir LT W01_45 Book O1475514";
+src:url("../fonts/d8c50fcc-bc32-4f31-8c24-b170c64e2254.eot#iefix");
+src:url("../fonts/d8c50fcc-bc32-4f31-8c24-b170c64e2254.eot#iefix") format("eot"),url("../fonts/476612d9-282d-4f76-95cd-b4dd31e7ed21.woff2") format("woff2"),url("../fonts/f1ebae2b-5296-4244-8771-5f40e60a564a.woff") format("woff"),url("../fonts/04d1bf6c-070d-4b7e-9498-6051c9f0c349.ttf") format("truetype"),url("../images/d0a3e813-1257-4b66-812a-36101faa0fb3.svg#d0a3e813-1257-4b66-812a-36101faa0fb3") format("svg");
+}
+@font-face{
+font-family:"Avenir LT W01_85 Heavy_1475550";
+src:url("../fonts/e6b412d9-d1ed-4b17-bb93-a6911df8640d.eot#iefix");
+src:url("../fonts/e6b412d9-d1ed-4b17-bb93-a6911df8640d.eot#iefix") format("eot"),url("../fonts/3c210c80-960f-4684-850b-25390b4d08af.woff2") format("woff2"),url("../fonts/cb5c71ad-e582-4d00-929c-67fbfaeb1c27.woff") format("woff"),url("../fonts/9ced8e96-4602-4507-8c20-4ff381949a9a.ttf") format("truetype"),url("../images/a7c1d112-7546-459d-a153-1467481298bd.svg#a7c1d112-7546-459d-a153-1467481298bd") format("svg");
+}
+@font-face{
+font-family:"Avenir LT W01_35 Light_1475502";
+src:url("../fonts/63a166cb-be60-435c-a056-75172e43efa5.eot#iefix");
+src:url("../fonts/63a166cb-be60-435c-a056-75172e43efa5.eot#iefix") format("eot"),url("../fonts/a59168c1-917d-4de9-a244-0316c057c357.woff2") format("woff2"),url("../fonts/6dc0e7d8-9284-44e1-8f05-984a41daa3a4.woff") format("woff"),url("../fonts/2315df7a-8bc2-433d-bf0a-162fc0063de0.ttf") format("truetype"),url("../images/7b1e5b2a-b6a6-43da-9021-ada6d1d797f2.svg#7b1e5b2a-b6a6-43da-9021-ada6d1d797f2") format("svg");
+}
+@font-face{
+font-family:"Trade Gothic LT W01 Roman";
+src:url("../fonts/40775ed4-d9b0-4f75-b874-80f2842332a9.eot#iefix");
+src:url("../fonts/40775ed4-d9b0-4f75-b874-80f2842332a9.eot#iefix") format("eot"),url("../fonts/24ba8ea7-bbf3-40e0-b924-fd985d79ebca.woff2") format("woff2"),url("../fonts/9274bb7f-01c5-45cb-b935-f53683ab6dd6.woff") format("woff"),url("../fonts/a94b3f7a-c1fd-4bbe-9273-1f6f081dcb2f.ttf") format("truetype"),url("../images/b0fb9bf0-3364-4802-9c4e-89202a063331.svg#b0fb9bf0-3364-4802-9c4e-89202a063331") format("svg");
+}
+@font-face{
+font-family:"Trade Gothic LT W01 Light";
+src:url("../fonts/dc61b9f1-7609-475e-af7d-8b2b5deb401d.eot#iefix");
+src:url("../fonts/dc61b9f1-7609-475e-af7d-8b2b5deb401d.eot#iefix") format("eot"),url("../fonts/655d9d2d-89f2-4a22-8374-53dc74dfec80.woff2") format("woff2"),url("../fonts/3490ccd3-6e42-49ba-9733-7af1e400a3b4.woff") format("woff"),url("../fonts/c44646ee-cf36-4809-92b4-9b4f292a2ca1.ttf") format("truetype"),url("../images/c5450be6-d3a7-4704-ae0b-1e82bc5b9c2b.svg#c5450be6-d3a7-4704-ae0b-1e82bc5b9c2b") format("svg");
+}
+@font-face{
+font-family:"Trade Gothic LT W01 Bold";
+src:url("../fonts/d1380d7c-6e23-49c9-bac2-0f927e77eb17.eot#iefix");
+src:url("../fonts/d1380d7c-6e23-49c9-bac2-0f927e77eb17.eot#iefix") format("eot"),url("../fonts/2bd4e485-6e2d-478c-94c7-9a7cabf8e98d.woff2") format("woff2"),url("../fonts/3e9c6e62-e41c-408b-bef3-ffa454301b17.woff") format("woff"),url("../fonts/a74675c3-a15b-41ed-8409-e90f921c3cb8.ttf") format("truetype"),url("../images/32260af6-2329-4a39-a8a3-3339f87a580b.svg#32260af6-2329-4a39-a8a3-3339f87a580b") format("svg");
+}
+@font-face{
+font-family:"Avenir LT W01_95 Black_1475562";
+src:url("../fonts/4030caeb-d266-4d36-ac58-a3bb7a5b1bfa.eot#iefix");
+src:url("../fonts/4030caeb-d266-4d36-ac58-a3bb7a5b1bfa.eot#iefix") format("eot"),url("../fonts/a2477e08-09d9-4d4b-97a9-23a1e22cb44c.woff2") format("woff2"),url("../fonts/19d12bba-92b1-43ad-9bab-cd36a4195c2a.woff") format("woff"),url("../fonts/5ba5a010-7470-4d9d-8a49-2920dc1be1f8.ttf") format("truetype"),url("../images/6d4a6a8c-ef50-422f-8456-88d479e0b23d.svg#6d4a6a8c-ef50-422f-8456-88d479e0b23d") format("svg");
+}
+@font-face{
+font-family:"Avenir LT W01_35 Light1475496";
+src:url("../fonts/edefe737-dc78-4aa3-ad03-3c6f908330ed.eot#iefix");
+src:url("../fonts/edefe737-dc78-4aa3-ad03-3c6f908330ed.eot#iefix") format("eot"),url("../fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2") format("woff2"),url("../fonts/908c4810-64db-4b46-bb8e-823eb41f68c0.woff") format("woff"),url("../fonts/4577388c-510f-4366-addb-8b663bcc762a.ttf") format("truetype"),url("../images/b0268c31-e450-4159-bfea-e0d20e2b5c0c.svg#b0268c31-e450-4159-bfea-e0d20e2b5c0c") format("svg");
+}
+@font-face{
+font-family:"Avenir LT W01_85 Heavy1475544";
+src:url("../fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot#iefix");
+src:url("../fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot#iefix") format("eot"),url("../fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2") format("woff2"),url("../fonts/61bd362e-7162-46bd-b67e-28f366c4afbe.woff") format("woff"),url("../fonts/ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf") format("truetype"),url("../images/20577853-40a7-4ada-a3fb-dd6e9392f401.svg#20577853-40a7-4ada-a3fb-dd6e9392f401") format("svg");
+}
+@font-face{
+font-family:"AvenirNextW01-ThinItali";
+src:url("../fonts/41537dd7-434f-4f85-b9d9-a88b160bc18d.eot#iefix");
+src:url("../fonts/41537dd7-434f-4f85-b9d9-a88b160bc18d.eot#iefix") format("eot"),url("../fonts/ec2dd1bd-4391-4b89-bf85-1a2346ea4342.woff2") format("woff2"),url("../fonts/fcf6f211-efa2-40f6-9c6b-e0ca63b6ea60.woff") format("woff"),url("../fonts/60fcc194-9529-4b99-9506-cdb26642656a.ttf") format("truetype"),url("../images/c110f1ef-6fdf-4008-bc75-b370649384a3.svg#c110f1ef-6fdf-4008-bc75-b370649384a3") format("svg");
+}
