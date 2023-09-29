@@ -6769,6 +6769,26 @@ p {
 	color: #459360
 }
 
+.black-p {
+	color: #000;
+}
+
+.grey-p {
+	color: #666;
+}
+
+.dark-red {
+	color:#873624;
+}
+
+.light-green{
+	color:#7A875D
+}
+
+.dark-black{
+	color: #010D0B;
+}
+
 .upper {
 	text-transform: uppercase
 }

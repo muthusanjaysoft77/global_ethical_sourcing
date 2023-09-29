@@ -22,13 +22,22 @@ div.et_pb_section.et_pb_section_3_home_inner {
 	background-image: url(../images/about_us.png) !important
 }
 
-div.et_pb_section.et_pb_section_cotton_farming {
+div.et_pb_section.cotton_farming {
 	background-image: url(../images/regenerative-cotton-farming.png) !important;
     background-position: top;	
 }
 
-div.et_pb_section.et_pb_section_cotton_farming_inner {
+div.et_pb_section.cotton_farming_inner {
 	background: #AFB1B2
+}
+
+div.et_pb_section.ethical_manufacturing {
+	background-image: url(../images/ethical-manufacturing.png) !important;
+	
+}
+
+div.et_pb_section.ethical_manufacturing_inner {
+	background: #873624
 }
 
 .et_pb_row_4,
