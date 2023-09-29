@@ -22,8 +22,14 @@ div.et_pb_section.et_pb_section_3_home_inner {
 	background-image: url(../images/about_us.png) !important
 }
 
+div.et_pb_section.et_pb_section_cotton_farming {
+	background-image: url(../images/regenerative-cotton-farming.png) !important;
+    background-position: top;	
+}
 
-
+div.et_pb_section.et_pb_section_cotton_farming_inner {
+	background: #AFB1B2
+}
 
 .et_pb_row_4,
 body #page-container .et-db #et-boc .et-l .et_pb_row_4.et_pb_row,
