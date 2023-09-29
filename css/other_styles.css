@@ -6680,7 +6680,7 @@ h3.white,h3.black {
 }
 
 h2.grey-lt span {
-	font-size: 146px;
+	font-size: 126px;
 	line-height: .8em
 }
 
@@ -6704,7 +6704,7 @@ a.blue-lt.underline {
 .page-id-4036 p,
 .page-id-73 p {
 	font-family: 'Avenir LT W01_35 Light_1475502', sans-serif;
-	font-size: 14px
+	font-size: 16px
 }
 
 p {
@@ -8999,11 +8999,11 @@ body[data-cottonstep='9'] .stage-1 {
 	padding-left: 4px
 }
 
-#hero-animate a,
+/* #hero-animate a,
 #hero-animate h1,
 #hero-animate h2 {
 	opacity: 0
-}
+} */
 
 .std h3 {
 	font-family: 'Avenir LT W01_85 Heavy1475544', sans-serif;
