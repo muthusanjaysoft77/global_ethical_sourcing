@@ -3,7 +3,7 @@
         c(document).ready(function() {
             c(window).width() <= 766 && (c("html,body").animate({
                 scrollTop: 0
-            }, 100), c(".white-box,.white-box p,.white-box-two,.white-box-two p,.green-box,.green-box p,.black-box,.black-box p,#pure_cotton,#biobased,#hero-animate,#hero-animate h1,#hero-animate h2,#hero-animate a,.white-box .et_pb_button_module_wrapper,.white-box-two .et_pb_button_module_wrapper,.green-box .et_pb_button_module_wrapper,.black-box .et_pb_button_module_wrapper").css("opacity", "1")), 766 < c(window).width() && (c("html,body").animate({
+            }, 100), c(".white-box,.white-box p,.white-box-two,.white-box-two p,.green-box,.green-box p,.nocolor-box,.nocolor-box p,.black-box,.black-box p,#pure_cotton,#biobased,#hero-animate,#hero-animate h1,#hero-animate h2,#hero-animate a,.white-box .et_pb_button_module_wrapper,.white-box-two .et_pb_button_module_wrapper,.green-box .et_pb_button_module_wrapper,.nocolor-box .et_pb_button_module_wrapper,.black-box .et_pb_button_module_wrapper").css("opacity", "1")), 766 < c(window).width() && (c("html,body").animate({
                 scrollTop: 0
             }, 100), setTimeout(function() {
                 c("#hero-animate h2:first-of-type").addClass("fadeInLeft animated")
@@ -26,6 +26,10 @@
                 c(".green-box p").addClass("fadeInLeft animated")
             }, 200), setTimeout(function() {
                 c(".green-box .et_pb_button_module_wrapper").addClass("fadeInLeft animated").css("opacity", "1")
+            }, 400)), c(window).scrollTop() >= o && (c(".nocolor-box").addClass("fadeInLeft animated"), setTimeout(function() {
+                c(".nocolor-box p").addClass("fadeInLeft animated")
+            }, 200), setTimeout(function() {
+                c(".nocolor-box .et_pb_button_module_wrapper").addClass("fadeInLeft animated").css("opacity", "1")
             }, 400)), c(window).scrollTop() >= a && (c(".black-box").addClass("fadeInRight animated").css("opacity", "1"), setTimeout(function() {
                 c(".black-box p").addClass("fadeInRight animated").css("opacity", "1")
             }, 200), setTimeout(function() {

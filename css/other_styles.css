@@ -6789,6 +6789,22 @@ p {
 	color: #010D0B;
 }
 
+.dark-blue{
+	color:#1A5266;
+}
+
+.dark-grey{
+	color:#3C2012;
+}
+
+.dark-balck2{
+	color:#65616A;
+}
+
+.dark-green2{
+	color:#444F20;
+}
+
 .upper {
 	text-transform: uppercase
 }
@@ -6849,8 +6865,12 @@ sub {
 	transition: opacity 1s linear
 }
 
+.nocolor-box{
+	
+}
+
 .black-box {
-	background-color: rgb(211 228 238 / 90%);
+	background-color: rgba(0,0,0,.7);
 	opacity: 0;
 	transition: opacity 1s linear;
 	z-index: 1

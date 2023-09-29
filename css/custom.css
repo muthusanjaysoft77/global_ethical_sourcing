@@ -40,6 +40,33 @@ div.et_pb_section.ethical_manufacturing_inner {
 	background: #873624
 }
 
+div.et_pb_section.recycled_cotton_and_polyester {
+	background-image: url(../images/recycled-cotton-fabric.png) !important;
+	
+}
+
+div.et_pb_section.recycled_cotton_and_polyester_inner {
+	background-image: url(../images/recycled-polyester-yarn.png) !important;
+}
+
+div.et_pb_section.zero_effluent_discharge_zed_dyeing_process {
+	background-image: url(../images/zed-plant.png) !important;
+	
+}
+
+div.et_pb_section.zero_effluent_discharge_zed_dyeing_process_inner {
+	background:#EBB393
+}
+
+div.et_pb_section.sustainability_certification {
+	background-image: url(../images/sustainable_shipping_logistics.png) !important;
+	
+}
+
+div.et_pb_section.sustainability_certification_inner {
+	background:#EBB393
+}
+
 .et_pb_row_4,
 body #page-container .et-db #et-boc .et-l .et_pb_row_4.et_pb_row,
 body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_4.et_pb_row,
