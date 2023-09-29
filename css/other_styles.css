@@ -6865,12 +6865,8 @@ sub {
 	transition: opacity 1s linear
 }
 
-.nocolor-box{
-	
-}
-
 .black-box {
-	background-color: rgba(0,0,0,.7);
+	background-color: rgb(211 228 238 / 90%);
 	opacity: 0;
 	transition: opacity 1s linear;
 	z-index: 1
