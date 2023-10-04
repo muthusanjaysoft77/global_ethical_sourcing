@@ -76,6 +76,67 @@ div.et_pb_section.managed_supply_chain_and_transparency_inner {
 	background:#038382
 }
 
+div.et_pb_section.retail_and_ecommerce_challenges {
+	background-image: url(../images/retail_ecommerce.png) !important;
+	
+}
+
+div.et_pb_section.retail_and_ecommerce_challenges_inner {
+	background:#DFB277
+}
+
+div.et_pb_section.financing {
+	background-image: url(../images/financing.png) !important;
+	
+}
+
+div.et_pb_section.financing_inner {
+	background:#D3E1EC
+}
+
+div.et_pb_section.sustainable_shipping_logistics {
+	background-image: url(../images/sustainable_shipping_logistics.png) !important;
+	
+}
+
+div.et_pb_section.sustainable_shipping_logistics_inner {
+	background:#F0E2E2
+}
+
+div.et_pb_section.innovation_technology {
+	background-image: url(../images/innovation-technology.png) !important;
+	
+}
+
+div.et_pb_section.innovation_technology_inner {
+	background:#FFDFDC
+}
+
+div.et_pb_section.about_us {
+	background-image: url(../images/about_us.png) !important;
+	
+}
+
+div.et_pb_section.about_us_inner {
+	background:#B89B61
+}
+
+.info {
+    font-size: 14px;
+    color: #873624;
+    letter-spacing: 2px;
+    padding-left: 5px;
+}
+#submit_button {
+    font-family: 'Avenir LT W01_95 Black_1475562',sans-serif;
+    color: #fff;
+    background-color: #65bbca;
+    margin-right: 0;
+    padding: 12px 60px;
+    border-radius: 4px;
+    border: 1px solid #65bbca;
+    transition: opacity .2s ease!important;
+}
 .et_pb_row_4,
 body #page-container .et-db #et-boc .et-l .et_pb_row_4.et_pb_row,
 body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_4.et_pb_row,
