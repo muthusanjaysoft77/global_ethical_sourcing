@@ -5,7 +5,7 @@ define('RECIPIENT_EMAIL','esakkimuthusg@gmail.com');
 if (isset($_POST) && !empty($_POST)) {
 	
     // Form Post Value
-    $name = sanitizeString($_POST['name']);
+    $name = sanitizeString($_POST['name']); 
 	$email = sanitizeString($_POST['email']);
     $phone = sanitizeString($_POST['phone']);
     $subject = sanitizeString($_POST['subject']);
